@@ -1,0 +1,6 @@
+{
+  "name": "Product Recommendation System",
+  "description": "An interactive product recommendation system powered by the Gemini API that filters a checklist of smartphones based on user criteria like budget, brand, and camera quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
